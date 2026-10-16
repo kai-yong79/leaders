@@ -2,6 +2,8 @@
 
 부서 공용물품을 누가 빌렸고 언제 돌려줄지 함께 보는 웹앱입니다.
 
+GitHub 저장소: [kai-yong79/leaders](https://github.com/kai-yong79/leaders)
+
 **주인님, 처음에는 아래 순서대로 따라 하세요.**
 
 - 먼저 필요한 SQL: [supabase/setup.sql](supabase/setup.sql)
